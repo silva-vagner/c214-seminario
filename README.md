@@ -16,9 +16,11 @@ São utilizadas as seguintes ferramentas:
     winget install Microsoft.DotNet.SDK.6
 
 No Visual Studio Code são utilizadas as extensões a seguir:
-- .Net Core Test Explorer
 
+- .Net Core Test Explorer
 ![extensão](imagens/extensao%20dotnetcore.png)
+
+
 - C# for Visual Studio Code (Omnishap)
 ![extensão](imagens/extensaocsharp.png)
 
@@ -37,6 +39,7 @@ Para criar o diretório testes
 
 
 ## 💡 Criar solution file
+Solution file é um arquivo de texto que contém todos os arquivos de um projeto.
 
 Inserir o comando abaixo no terminal para a criação do arquivo:
 
