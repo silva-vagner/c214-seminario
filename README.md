@@ -18,10 +18,12 @@ São utilizadas as seguintes ferramentas:
 No Visual Studio Code são utilizadas as extensões a seguir:
 
 - .Net Core Test Explorer
+
 ![extensão](imagens/extensao%20dotnetcore.png)
 
 
 - C# for Visual Studio Code (Omnishap)
+
 ![extensão](imagens/extensaocsharp.png)
 
 
