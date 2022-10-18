@@ -97,10 +97,8 @@ Executar os comandos abaixo a partir da pasta raiz
     dotnet add package coverlet.msbuild --version 3.1.2
 
 ### Executando os testes dentro do projeto:
-- Para executar os testes, abrir o VSCode, carregar o projeto e navegar até os
-arquivos UnitTest1.cs e UnitTest2.cs. Para cada teste haverá uma opção Run Test
-que pode ser clicada para executar o teste individualmente, ou então à nível de
-classe é possível clicar em Run All Tests para executar todos em sequência.
+Para executar os testes, é necessário navegar até os arquivos UnitTest1.cs e UnitTest2.cs, para cada teste haverá uma opção Run Test que pode ser clicada para executar o teste individualmente, ou então à nível de classe é possível clicar em Run All Tests para executar todos em sequência.
+
 Através da extensão do VSCode com o nome "Testing", clicar no ícone de refresh e
 uma lista com os testes das duas classes estarão disponíveis, neste caso também é
 possível executar os testes um à um ou todos em sequência.
