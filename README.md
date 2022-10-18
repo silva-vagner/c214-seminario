@@ -113,6 +113,7 @@ possível executar os testes um à um ou todos em sequência.
     dotnet build
 
 ### Integrando com Sonarqube:
+![sonar](imagens/dashboard.png)
 #### Subindo uma instância do Sonarqube no docker:
     docker run -d --name sonarqube -p 9000:9000 -p 9092:9092 sonarqube
 #### Instalar SonarScanner tool para análise dos testes:
