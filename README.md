@@ -83,7 +83,7 @@ Executar os comandos abaixo a partir da pasta raiz
     dotnet add package xunit --version 2.4.1
     dotnet add package xunit.runner.visualstudio --version 2.4.3
     dotnet add package coverlet.msbuild --version 3.1.2
-    otnet add package FluentAssertions --version 6.7.0
+    dotnet add package FluentAssertions --version 6.7.0
 
 ### Projeto que será testado:
 Executar os comandos abaixo a partir da pasta raiz
